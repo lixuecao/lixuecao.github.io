@@ -143,9 +143,22 @@ Research Interests:
 <ul>
 <li>CropLand expansion;</li>
 </ul>
+    
+<p style="font-weight:bold">Bo Yuan (yuanbogeo@gmail.com)</p>
+Research Interests:
+<ul>
+<li>Urban thermal environment;</li>
+<li>Urban heat island;</li>
+</ul>
 
+
+<br>
+<br>
+    
 <p style="font-weight:bold">Research assistant</p>
 
+    
+    
 <br>
 <br>
 
