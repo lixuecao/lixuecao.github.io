@@ -18,9 +18,9 @@ permalink: /news/
         <tbody>
              <tr>
                 <td>9/2022</td>
-                <td>Xuecao was invited to give a talk in the International Forum on Big Data for Sustainable Development Goals in Beijing, China.  
+                <td>Xuecao was invited to give a talk in the International Forum on Big Data for Sustainable Development Goals in Beijing, China.  <br>
 	Welcome Guojiang, Mengqing, Xingyu, Xiayu, and Bo joined our lab.</td>
-            </tr>
+            </tr>	
         </tbody>
     </table>
     <br>
